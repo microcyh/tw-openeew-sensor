@@ -1,9 +1,7 @@
-# OpenEEW Sensor
-The OpenEEW sensor has already shown itself to be [as good as seismometers]. for the purpose of earthquake early-warnings (EEW). EEWs are concerned only with strong shaking and so expensive broadband seismometers are not necessary for detection.
+# TW OpenEEW Sensor
+The TW OpenEEW Sensor is a fork from OpenEEW sensor with some modifications to suit Taiwan's geographical environment. The OpenEEW sensor has already shown itself to be [as good as seismometers]. for the purpose of earthquake early-warnings (EEW). EEWs are concerned only with strong shaking and so expensive broadband seismometers are not necessary for detection.
 
 This hardware design has been created to drastically reduce the cost of a seismometer through the usage of off-the-shelf parts. The key component is the ADXL355 MEMS accelerometer, which has far lower noise than other accelerometers on the market. This low noise allows it to detect earthquakes at further distances.
-
-The sensor can be bought from [PCBWay](https://www.pcbway.com/project/gifts_detail/OpenEEW_Node.html), [Grillo](https://grillo.io/product/openeew-node/), or made following these instructions.
 
 ## Hardware
 The PCB features the following:
