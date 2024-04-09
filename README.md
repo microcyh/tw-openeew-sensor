@@ -1,5 +1,5 @@
 # OpenEEW Sensor
-The OpenEEW sensor has already shown itself to be [as good as seismometers](https://openeew.com/blog/sensor-benchmark) for the purpose of earthquake early-warnings (EEW). EEWs are concerned only with strong shaking and so expensive broadband seismometers are not necessary for detection.
+The OpenEEW sensor has already shown itself to be [as good as seismometers]. for the purpose of earthquake early-warnings (EEW). EEWs are concerned only with strong shaking and so expensive broadband seismometers are not necessary for detection.
 
 This hardware design has been created to drastically reduce the cost of a seismometer through the usage of off-the-shelf parts. The key component is the ADXL355 MEMS accelerometer, which has far lower noise than other accelerometers on the market. This low noise allows it to detect earthquakes at further distances.
 
